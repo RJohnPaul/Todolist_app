@@ -580,7 +580,7 @@ export default function Home() {
             </svg>
             <div className="mt-2 sm:mt-6">
               <p className="text-gray-800 dark:text-gray-200">
-                " The best one I've ever come across. "
+                "The best one I&nbsp;ve ever come across."
               </p>
             </div>
             {/* Star */}
@@ -1101,7 +1101,7 @@ export default function Home() {
                   How do I add tasks to my to-do list?
                 </h3>
                 <p className="mt-1 text-gray-500">
-                  To add tasks to your to-do list, simply tap the 'Add Task'
+                  To add tasks to your to-do list, simply tap the{"'"}Add Task{"'"};
                   button on the app's main screen and enter the task details.
                 </p>
               </div>
@@ -1246,7 +1246,7 @@ export default function Home() {
                   How do I update a task in my to-do list?
                 </h3>
                 <p className="mt-1 text-gray-500">
-                  After editing a task, click the 'Update Task' button to save
+                  After editing a task, click the&nbsp;'Update Task'&nbsp;button to save
                   the changes to that task.
                 </p>
               </div>
