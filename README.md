@@ -1,5 +1,11 @@
 # ToDo List App
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/WeatherWave/blob/6702012e112101f83b8ab217d2e940083b4b5f22/weatherwave.png" alt="Project Banner">
+  </br>
+</div>
+</br>
 Welcome to the ToDo List App repository! This repository contains both the landing page for the ToDo List App and the ToDo List App itself, built using Next.js, Tailwind CSS, React Native, and basic CSS.
 
 ## Features
