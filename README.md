@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Todolist_app/blob/b8048f89d1f89fb0dd7e80367fd5823ebea49767/todolist.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Todolist_app/blob/b275af082aaa9fb5fd9052fbfd88a142078f71f7/2560x1600%20(3).png" alt="Project Banner">
   </br>
 </div>
 </br>
